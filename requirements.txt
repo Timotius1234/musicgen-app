@@ -1,7 +1,6 @@
+streamlit
 tensorflow==2.19.0
-numpy==2.1.3
-pretty-midi==0.2.10
-librosa==0.11.0
-soundfile==0.13.1
-mido==1.3.3
-streamlit==1.45.1
+numpy
+pretty_midi
+librosa
+soundfile
